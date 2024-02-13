@@ -35,5 +35,3 @@ Object.is(NaN, 0 / 0); // true
 리액트 개발팀이 만든 shallowEqual이라는 함수 씀  
 얕은 객체까지 동등비교하고 (depth<=1) 나머진 컷  
 그래서 depth2인 props는 메모이제이션이안됨
-
-### 함수
